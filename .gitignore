@@ -1,0 +1,17 @@
+.DS-Store
+.sass-cache
+.bundle
+.jekyll-metadata
+
+# Site build & Distribution
+dist
+
+# Logs
+*.log
+
+# Packages
+node_modules
+
+vendor/**/*
+
+notes.txt
